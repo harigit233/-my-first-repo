@@ -1,3 +1,2 @@
-# Portifolio
-This is My GitHub Repository
+# Resume
 Name : Tamada Hari Venkata Satyanarayana
